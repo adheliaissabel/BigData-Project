@@ -1,8 +1,8 @@
 # Data and generated outputs
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# data/raw/*
+# !data/raw/.gitkeep
+# data/processed/*
+# !data/processed/.gitkeep 
 outputs/*
 !outputs/.gitkeep
 .venv/
